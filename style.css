@@ -1,6 +1,20 @@
 body{
-    background-color: rgb(134, 32, 32);
-}
-.texto{
-    text-align: center;
+    backgroud-color: black;
+    color: rgb(255 255 255);
+
+
+heder{
+    font-size: 30px;
+
+
+
+.chamada{
+    background-color: rgb(22 22 22)
+    display: flex; /*torna a seção flexivel deixando um do lado do outro*/
+    justify-content: center; 
+
+
+.chamada texto{
+    margin-right: 5%
+    font-size: 200%;
 }
